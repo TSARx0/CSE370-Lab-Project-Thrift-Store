@@ -1,4 +1,4 @@
-# CSE370 Lab Project <b>Thrift Store</b> 
+# CSE370 Lab Project Thrift Store general information
 
 Database have to have at least 10 distinct column
 
